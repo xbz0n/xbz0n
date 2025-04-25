@@ -40,6 +40,7 @@ Specialized in discovering and exploiting security vulnerabilities in web applic
 
 ### 🔬 Latest Research & Blog Articles
 
+- [XSS to Account Takeover & Data Exfiltration](https://xbz0n.sh/blog/XSS-to-Account-Takeover-and-Data-Exfiltration) *Apr 24, 2025*
 - [VirtualProtect DEP Bypass: Step-By-Step Exploit](https://xbz0n.sh/blog/virtualprotect_dep_bypass_guide) - *Apr 8, 2025*
 - [Social Engineering in Red Team Operations: Technical Setup and Tools](https://xbz0n.sh/blog/social-engineering-redteam) - *Apr 1, 2025*
 - [C2 Redirectors: Advanced Infrastructure for Modern Red Team Operations](https://xbz0n.sh/blog/c2-redirectors) - *Mar 25, 2025*
