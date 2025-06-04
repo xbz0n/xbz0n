@@ -39,6 +39,7 @@ Specialized in discovering and exploiting security vulnerabilities in web applic
 </div>
 
 ### 🔬 Latest Research & Blog Articles
+- [Breaking ADCS: ESC1 to ESC16 Attack Techniques](https://xbz0n.sh/blog/adcs-complete-attack-reference) *Jun 4, 2025*
 - [From Zero Creds to Enterprise Admin](https://xbz0n.sh/blog/from-zero-creds-to-ea) *May 20, 2025*
 - [XSS to Account Takeover & Data Exfiltration](https://xbz0n.sh/blog/XSS-to-Account-Takeover-and-Data-Exfiltration) *Apr 24, 2025*
 - [VirtualProtect DEP Bypass: Step-By-Step Exploit](https://xbz0n.sh/blog/virtualprotect_dep_bypass_guide) - *Apr 8, 2025*
