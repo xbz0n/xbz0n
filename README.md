@@ -39,6 +39,7 @@ Specialized in discovering and exploiting security vulnerabilities in web applic
 </div>
 
 ### 🔬 Latest Research & Blog Articles
+- [Finding and Exploiting CVE-2025-50674 in OpenMediaVault](https://xbz0n.sh/blog/CVE-2025-50674) *Aug 24, 2025*
 - [Mythic C2 with EarlyBird Injection and Defender Evasion](https://xbz0n.sh/blog/mythic-c2-early-bird-defender-evasion) *Jun 26, 2025*
 - [Breaking ADCS: ESC1 to ESC16 Attack Techniques](https://xbz0n.sh/blog/adcs-complete-attack-reference) *Jun 4, 2025*
 - [From Zero Creds to Enterprise Admin](https://xbz0n.sh/blog/from-zero-creds-to-ea) *May 20, 2025*
