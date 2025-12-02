@@ -60,6 +60,7 @@ Specialized in discovering and exploiting security vulnerabilities in web applic
 
 ### 🔐 CVEs Discovered
 
+- [CVE-2025-50674](https://xbz0n.sh/cves): Privilege escalation vulnerability in OpenMediaVault
 - [CVE-2024-32136](https://xbz0n.sh/cves): SQL injection vulnerability in database systems
 - [CVE-2023-0830](https://xbz0n.sh/cves): Vulnerability in EasyNAS backup allowing arbitrary command execution with root privileges
 - [CVE-2024-0365](https://xbz0n.sh/cves): System components security flaw allowing privilege escalation
